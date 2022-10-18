@@ -1,2 +1,4 @@
 Fichier1 Texte1 CdP
 Fichier1 Texte2 CdP Local
+Fichier1 Texte3 CdP Local
+Fichier1 Texte4 CdP Local
